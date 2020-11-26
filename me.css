@@ -1,0 +1,35 @@
+.img img{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 90px;
+}
+.img{
+    margin-left: 500px;
+}
+.name{
+    color: rgb(255, 255, 255);
+    margin-left: 490px;
+    font-size: 20px;
+}
+.sec{
+    font-family: 'Baloo Bhaina 2', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.third{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: azure;
+}
+.cont{
+    video autoplay loop
+}
+.video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -999;
+}
